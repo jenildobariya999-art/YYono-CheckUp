@@ -1,0 +1,21 @@
+window.CONFIG = Object.freeze({
+    "VITE_API_URL": "https://82lotter9281.site/deepanshu",
+    "VITE_BASE_LANGUAGE": "en",
+    "VITE_BASE_AREACODE": "",
+    "VITE_BASE_DOLLARSIGN": "₹",
+    "VITE_BASE_LANGUAGES": "en",
+    "VITE_BASE_PROJECTLOGO": "",
+    "VITE_BASE_HEADLOGO": "",
+    "VITE_BASE_PROJECTNAME": "raja",
+    "VITE_BASE_CURRENCY": "INR",
+    "VITE_BASE_UPPERORLOWER": "0",
+    "VITE_BASE_WEBICO": "",
+    "VITE_PNGSTART": "raja",
+    "VITE_BASE_OLDINVITATIONKEY": "r_code",
+    "VITE_HOME": "red92Home",
+    "VITE_MAINCOLOR": "red92Style",
+    "BASE_URL": "/",
+    "MODE": "production",
+    "DEV": true,
+    "PROD": false
+});
